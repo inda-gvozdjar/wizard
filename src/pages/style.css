@@ -1,0 +1,21 @@
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+.formCheckbox {
+  width: fit-content;
+  text-align: start;
+  display: inline-block;
+}
+.headerCard {
+  display: flex;
+  justify-content: end;
+}
+.textCard {
+  display: flex;
+  justify-content: end;
+  text-align: end;
+}
